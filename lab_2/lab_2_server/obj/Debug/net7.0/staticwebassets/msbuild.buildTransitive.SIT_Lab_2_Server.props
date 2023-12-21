@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SIT_Lab_2_Server.props" />
+</Project>

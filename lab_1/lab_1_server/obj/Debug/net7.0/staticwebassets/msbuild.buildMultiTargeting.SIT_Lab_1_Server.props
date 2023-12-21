@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SIT_Lab_1_Server.props" />
+</Project>

@@ -1,0 +1,111 @@
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\bin\Debug\net7.0\appsettings.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\bin\Debug\net7.0\lab_1_server.exe
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\bin\Debug\net7.0\lab_1_server.deps.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\bin\Debug\net7.0\lab_1_server.runtimeconfig.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\bin\Debug\net7.0\lab_1_server.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\bin\Debug\net7.0\lab_1_server.pdb
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\lab_1_server.csproj.AssemblyReference.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\lab_1_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\lab_1_server.AssemblyInfoInputs.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\lab_1_server.AssemblyInfo.cs
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\lab_1_server.csproj.CoreCompileInputs.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\lab_1_server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\lab_1_server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\staticwebassets\msbuild.lab_1_server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\staticwebassets\msbuild.build.lab_1_server.props
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lab_1_server.props
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lab_1_server.props
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\scopedcss\bundle\lab_1_server.styles.css
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\lab_1_server.csproj.CopyComplete
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\lab_1_server.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\refint\lab_1_server.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\lab_1_server.pdb
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\lab_1_server.genruntimeconfig.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Server\obj\Debug\net7.0\ref\lab_1_server.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\bin\Debug\net7.0\appsettings.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\bin\Debug\net7.0\lab_1_server.exe
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\bin\Debug\net7.0\lab_1_server.deps.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\bin\Debug\net7.0\lab_1_server.runtimeconfig.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\bin\Debug\net7.0\lab_1_server.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\bin\Debug\net7.0\lab_1_server.pdb
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\lab_1_server.csproj.AssemblyReference.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\lab_1_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\lab_1_server.AssemblyInfoInputs.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\lab_1_server.AssemblyInfo.cs
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\lab_1_server.csproj.CoreCompileInputs.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\lab_1_server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\lab_1_server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\staticwebassets\msbuild.lab_1_server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\staticwebassets\msbuild.build.lab_1_server.props
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lab_1_server.props
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lab_1_server.props
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\scopedcss\bundle\lab_1_server.styles.css
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\lab_1_server.csproj.CopyComplete
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\lab_1_server.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\refint\lab_1_server.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\lab_1_server.pdb
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\lab_1_server.genruntimeconfig.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_server\obj\Debug\net7.0\ref\lab_1_server.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\bin\Debug\net7.0\appsettings.json
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\bin\Debug\net7.0\lab_1_server.exe
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\bin\Debug\net7.0\lab_1_server.deps.json
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\bin\Debug\net7.0\lab_1_server.runtimeconfig.json
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\bin\Debug\net7.0\lab_1_server.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\bin\Debug\net7.0\lab_1_server.pdb
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\lab_1_server.csproj.AssemblyReference.cache
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\lab_1_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\lab_1_server.AssemblyInfoInputs.cache
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\lab_1_server.AssemblyInfo.cs
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\lab_1_server.csproj.CoreCompileInputs.cache
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\lab_1_server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\lab_1_server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\staticwebassets\msbuild.lab_1_server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\staticwebassets\msbuild.build.lab_1_server.props
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lab_1_server.props
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lab_1_server.props
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\scopedcss\bundle\lab_1_server.styles.css
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\lab_1_server.csproj.CopyComplete
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\lab_1_server.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\refint\lab_1_server.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\lab_1_server.pdb
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\lab_1_server.genruntimeconfig.cache
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_server\obj\Debug\net7.0\ref\lab_1_server.dll

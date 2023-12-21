@@ -1,0 +1,69 @@
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\bin\Debug\net7.0-windows\lab_1_client.exe
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\bin\Debug\net7.0-windows\lab_1_client.deps.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\bin\Debug\net7.0-windows\lab_1_client.runtimeconfig.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\bin\Debug\net7.0-windows\lab_1_client.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\bin\Debug\net7.0-windows\lab_1_client.pdb
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\lab_1_client.csproj.AssemblyReference.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\PostDataWindow.g.cs
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\lab_1_client_MarkupCompile.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\lab_1_client_MarkupCompile.lref
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\PostDataWindow.baml
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\lab_1_client.g.resources
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\lab_1_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\lab_1_client.AssemblyInfoInputs.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\lab_1_client.AssemblyInfo.cs
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\lab_1_client.csproj.CoreCompileInputs.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\lab_1_client.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\refint\lab_1_client.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\lab_1_client.pdb
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\lab_1_client.genruntimeconfig.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\SIT_Lab_1_Client0\obj\Debug\net7.0-windows\ref\lab_1_client.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\bin\Debug\net7.0-windows\lab_1_client.exe
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\bin\Debug\net7.0-windows\lab_1_client.deps.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\bin\Debug\net7.0-windows\lab_1_client.runtimeconfig.json
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\bin\Debug\net7.0-windows\lab_1_client.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\bin\Debug\net7.0-windows\lab_1_client.pdb
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.csproj.AssemblyReference.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\PostDataWindow.g.cs
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\lab_1_client_MarkupCompile.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\lab_1_client_MarkupCompile.lref
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\PostDataWindow.baml
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.g.resources
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.AssemblyInfoInputs.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.AssemblyInfo.cs
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.csproj.CoreCompileInputs.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\refint\lab_1_client.dll
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.pdb
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.genruntimeconfig.cache
+C:\Users\steepday\Desktop\БИТ\SITLabs\lab_1_client\obj\Debug\net7.0-windows\ref\lab_1_client.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\bin\Debug\net7.0-windows\lab_1_client.exe
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\bin\Debug\net7.0-windows\lab_1_client.deps.json
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\bin\Debug\net7.0-windows\lab_1_client.runtimeconfig.json
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\bin\Debug\net7.0-windows\lab_1_client.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\bin\Debug\net7.0-windows\lab_1_client.pdb
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.csproj.AssemblyReference.cache
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\PostDataWindow.g.cs
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\lab_1_client_MarkupCompile.cache
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\lab_1_client_MarkupCompile.lref
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\PostDataWindow.baml
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.g.resources
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.AssemblyInfoInputs.cache
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.AssemblyInfo.cs
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.csproj.CoreCompileInputs.cache
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\refint\lab_1_client.dll
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.pdb
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\lab_1_client.genruntimeconfig.cache
+C:\Users\steepday\Desktop\Безопасность информационных технологий\Лабораторная работа 1\lab_1_client\obj\Debug\net7.0-windows\ref\lab_1_client.dll

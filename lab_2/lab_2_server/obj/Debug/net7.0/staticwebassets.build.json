@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ckxre8LIgZFXriV0YqlhNr6IJ7XsRqqrvI2xMKc1ggQ=",
+  "Source": "lab_2_server",
+  "BasePath": "_content/lab_2_server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

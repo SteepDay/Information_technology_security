@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SIT_Lab_2_Client/1.0.0": {
+        "runtime": {
+          "SIT_Lab_2_Client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SIT_Lab_2_Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

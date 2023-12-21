@@ -1,0 +1,34 @@
+﻿<Window x:Class="lab_3_client.Registration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab_3_client"
+        mc:Ignorable="d"
+        Title="РЕГИСТРАЦИЯ" Height="160" Width="400" Background="LightBlue">
+    <Grid>
+        <GroupBox x:Name="registrForm">
+            <Grid ShowGridLines="False">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.3*" />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Column="0" Grid.Row="0" Text="Логин" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                <TextBox   Grid.Column="1" Grid.Row="0" x:Name="textBoxLogin" MaxLength="75" Height="20" Width="120"/>
+
+                <TextBlock Grid.Column="0" Grid.Row="1" Text="Пароль" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                <PasswordBox   Grid.Column="1" Grid.Row="1" x:Name="textBoxPassword" MaxLength="75" Height="20" Width="120"/>
+
+                <Button    Grid.Column="1" Grid.Row="2" x:Name="registrButton" Content="Зарегистрироваться" Height="25" Width="120" Click="Registrate" />
+                <Button    Grid.Column="1" Grid.Row="3" x:Name="CancelButton" Content="Отмена" Height="25" Width="120" Click="CancelRegistration_Click" IsCancel="True"/>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>
+
